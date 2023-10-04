@@ -1,4 +1,4 @@
-Install python3 
-instal
+install python3
+install pip3
 
 pip3 install gevent
